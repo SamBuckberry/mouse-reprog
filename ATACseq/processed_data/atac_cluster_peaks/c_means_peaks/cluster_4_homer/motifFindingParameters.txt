@@ -1,0 +1,1 @@
+cmd = cluster_4.bed mm10 cluster_4jaspar/ -size given -p 4 -mknown /home/sbuckberry/working_data_01/bin/homer/data/knownTFs/vertebrates/known.motifs
