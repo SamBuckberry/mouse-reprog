@@ -1,10 +1,3 @@
----
-title: "Mouse reprogamming data and analysis files"
-author: "Sam Buckberry"
-date: "6/12/2017"
-output: html_document
----
-## R Markdown
 
 This repository contains summarised data and analysis files for MEF cell reprogramming experiments.
 
