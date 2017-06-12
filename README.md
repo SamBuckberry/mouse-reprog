@@ -1,5 +1,5 @@
 
-This repository contains summarised data and analysis files for MEF cell reprogramming experiments.
+This repository contains summarised data and analysis files for MEF cell reprogramming experiments. All genomic coordinate information contained in these files refers to the UCSC mm10 reference genome.
 
 ### Data files 
 
