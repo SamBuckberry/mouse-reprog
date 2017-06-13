@@ -37,7 +37,8 @@ File containing the TPM normalised expression data.
 File containing sample id mapping for the above files.  
 [/RNAseq/processed_data/sample_ids.txt](/RNAseq/processed_data/sample_ids.txt)
 
-
+File containing differential expression results for SSEA1+ vs Thy1+ cells at day 6 of reprogramming.
+[/RNAseq/processed_data/d6_thy_vs_ssea_DE_genes.txt](/RNAseq/processed_data/d6_thy_vs_ssea_DE_genes.txt)
 
 
 
