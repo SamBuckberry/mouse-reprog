@@ -2,6 +2,9 @@
 This repository contains summarised data and analysis files for MEF cell reprogramming experiments. All genomic coordinate information contained in these files refers to the UCSC mm10 reference genome.
 
 
+A UCSC browser session for the data generated in this study can be accessed through this link:
+[Knaupp et. al. UCSC browser session](http://bit.ly/knaupp_ucsc_session)
+
 ATAC-seq
 ===
 
